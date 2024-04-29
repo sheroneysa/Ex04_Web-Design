@@ -26,35 +26,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```
-    <html>
-    <head>
-    <title>agricultural search</title>
-    </head>
-    <body>
-    <h3>
-    Ragi
-    <br>
-    <a href="https://agritech.tnau.ac.in/agriculture/millets_ragi.html">
-    <img src="d:\ragi.jfif"height="200" width="200
-    </a>
-    <br>
-    <br>
-    Urea
-    <br>
-    <a href="https://infinitygalaxy.org/what-is-urea/">
-    <img src="d:\urea.jfif"height="200" width="200">
-    </a>
-    <br>
-    <br>
-    drone sprayer
-    <br>
-    <a href="https://dir.indiamart.com/impcat/agricultural-drone.html">
-    <img src="d:\drone sprayer.jfif"height="200" width="200">
-    </a>
-    </body>
-    </html>
-    ```
+
 
 ## OUTPUT
 
